@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @mukhinid - full stack developer on .net core and react.
+- 👀 I’m interested in full-stack webdev, gamedev and rust.
